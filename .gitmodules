@@ -1,0 +1,3 @@
+[submodule "bwa_moneyapp"]
+	path = bwa_moneyapp
+	url = https://github.com/mdaniyalk/bwa_moneyapp
